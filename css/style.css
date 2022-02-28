@@ -115,7 +115,7 @@ header {
 
 
 #hero_section{
-   background-image: url("/background.png");
+   background-image: url("/img/background.png");
    background-repeat: no-repeat;
    background-position: top 0;
    background-size: cover;
